@@ -10,3 +10,10 @@
 
 cf. https://caml.inria.fr/pub/docs/manual-ocaml/lexyacc.html
 
+## build
+
+```console
+cd parser
+dune build calc.exe
+./calc.exe
+```
